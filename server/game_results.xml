@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game_result>
+  <game_id>4SQ4PM</game_id>
+  <secret_code>9969</secret_code>
+  <started_at>2025-04-25T17:24:55.2014325+03:00</started_at>
+  <finished_at>2025-04-25T17:25:55.1400732+03:00</finished_at>
+  <players>
+    <player>
+      <id>u7mguvs8</id>
+      <name>алекс</name>
+      <attempts>0</attempts>
+    </player>
+    <player>
+      <id>prv50bc0</id>
+      <name>петя</name>
+      <attempts>5</attempts>
+    </player>
+  </players>
+</game_result>
+<game_result>
+  <game_id>4SQ4PM</game_id>
+  <secret_code>9969</secret_code>
+  <started_at>2025-04-25T17:24:55.2014325+03:00</started_at>
+  <finished_at>2025-04-25T17:26:34.3859973+03:00</finished_at>
+  <winner>u7mguvs8</winner>
+  <players>
+    <player>
+      <id>u7mguvs8</id>
+      <name>алекс</name>
+      <attempts>1</attempts>
+    </player>
+    <player>
+      <id>prv50bc0</id>
+      <name>петя</name>
+      <attempts>5</attempts>
+    </player>
+  </players>
+</game_result>
